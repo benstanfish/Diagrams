@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T23:16:55.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="d1Wj6Puo3Mmit6iyas6W" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T23:21:36.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ZEtA9qU8QcILZ5PaObpn" version="24.6.4" type="github">
   <diagram name="Page-1" id="tYTx1xWJ3GN5UAdBM3DD">
     <mxGraphModel dx="1396" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,6 +55,21 @@
         </mxCell>
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-26" value="convert left&lt;div&gt;10 characters&lt;/div&gt;&lt;div&gt;to date on dates&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="335" y="555" width="104" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="cdZPpGZ8JEdqdKie-wyI-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdZPpGZ8JEdqdKie-wyI-29" target="cdZPpGZ8JEdqdKie-wyI-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdZPpGZ8JEdqdKie-wyI-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdZPpGZ8JEdqdKie-wyI-29" target="cdZPpGZ8JEdqdKie-wyI-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdZPpGZ8JEdqdKie-wyI-29" value="Existing&lt;div&gt;Word&lt;/div&gt;&lt;div&gt;process?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="514" y="113" width="103" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="cdZPpGZ8JEdqdKie-wyI-30" value="Get&lt;div&gt;existing&lt;/div&gt;&lt;div&gt;process&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="395" y="123" width="76" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="cdZPpGZ8JEdqdKie-wyI-34" value="Create new&lt;div&gt;process, get&lt;/div&gt;&lt;div&gt;a handle&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="661" y="123" width="99" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
