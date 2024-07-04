@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T23:16:23.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="nDzmwli3dzNs6melNTFe" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T23:16:45.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="QXywQGwev7JwwsOFM4WM" version="24.6.4" type="github">
   <diagram name="Page-1" id="tYTx1xWJ3GN5UAdBM3DD">
     <mxGraphModel dx="1396" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,6 +35,9 @@
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-18" value="Open &lt;b&gt;folder&lt;/b&gt;&lt;div&gt;dialog&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="-21" y="149.5" width="97" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="cdZPpGZ8JEdqdKie-wyI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdZPpGZ8JEdqdKie-wyI-20" target="cdZPpGZ8JEdqdKie-wyI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-20" value="Validate&amp;nbsp;&lt;div&gt;customXMLPart&lt;/div&gt;&lt;div&gt;against&lt;/div&gt;&lt;div&gt;namespaceURI&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="136.5" y="356.5" width="119" height="86" as="geometry" />
         </mxCell>
@@ -42,16 +45,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-23" value="Create dictionary&amp;nbsp;&lt;div&gt;for baseNames&amp;nbsp;&lt;/div&gt;&lt;div&gt;and text nodes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="463" y="461" width="112" height="55" as="geometry" />
+          <mxGeometry x="349" y="372" width="112" height="55" as="geometry" />
         </mxCell>
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdZPpGZ8JEdqdKie-wyI-24" target="cdZPpGZ8JEdqdKie-wyI-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-24" value="pass over&amp;nbsp;&lt;div&gt;text nodes&amp;nbsp;&lt;/div&gt;&lt;div&gt;that start with &amp;lt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="469" y="549" width="100" height="55" as="geometry" />
+          <mxGeometry x="355" y="466" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-26" value="convert left&lt;div&gt;10 characters&lt;/div&gt;&lt;div&gt;to date on dates&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="467" y="638" width="104" height="55" as="geometry" />
+          <mxGeometry x="353" y="555" width="104" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
