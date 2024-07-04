@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T23:23:24.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ZIWWH1_prEMi3D5VPFIX" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T23:34:29.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="x6D7zW7cYYepVZXZtfcB" version="24.6.4" type="github">
   <diagram name="Page-1" id="tYTx1xWJ3GN5UAdBM3DD">
     <mxGraphModel dx="1396" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,6 +65,14 @@
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-29" value="Existing&lt;div&gt;Word&lt;/div&gt;&lt;div&gt;process?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;spacing=20;" vertex="1" parent="1">
           <mxGeometry x="514" y="113" width="103" height="91" as="geometry" />
         </mxCell>
+        <mxCell id="cdZPpGZ8JEdqdKie-wyI-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cdZPpGZ8JEdqdKie-wyI-30" target="cdZPpGZ8JEdqdKie-wyI-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="267" />
+              <mxPoint x="487" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-30" value="Get&lt;div&gt;existing&lt;/div&gt;&lt;div&gt;process&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="395" y="123" width="76" height="71" as="geometry" />
         </mxCell>
@@ -76,6 +84,9 @@
         </mxCell>
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-40" value="Get datat from&lt;div&gt;content control&lt;/div&gt;&lt;div&gt;XMLMapping&lt;/div&gt;&lt;div&gt;CustomXMLNode&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=14;strokeWidth=2;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="315.5" y="463" width="129" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="cdZPpGZ8JEdqdKie-wyI-44" value="OnBefore&lt;div&gt;Application.Quit&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="506.5" y="238" width="118" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
