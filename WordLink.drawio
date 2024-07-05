@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T02:33:02.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="V5ssUvIAI-_banW_sBbR" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-05T02:34:08.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="C1l3yk1rduAIW8g9vV2k" version="24.6.4" type="github" pages="3">
   <diagram name="Main" id="tYTx1xWJ3GN5UAdBM3DD">
     <mxGraphModel dx="996" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -139,8 +139,8 @@
         <mxCell id="bii5eKRBpu5unn8WeBp9-3" value="Add new row" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="-31" y="299" width="103" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="bii5eKRBpu5unn8WeBp9-5" value="Search existing&lt;div&gt;rows for existing&lt;/div&gt;&lt;div&gt;RFI and Rev&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="330" y="284.5" width="121" height="71" as="geometry" />
+        <mxCell id="bii5eKRBpu5unn8WeBp9-5" value="Determine&lt;div&gt;if RFI &amp;amp; Rev&lt;/div&gt;&lt;div&gt;were previously&lt;/div&gt;&lt;div&gt;added to table&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="332" y="277.5" width="117" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
