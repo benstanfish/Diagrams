@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T01:03:33.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="h-4u4NNxipu3FOJgXhWQ" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T01:05:44.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="jTbIEmSJDOYeErr6nN93" version="24.6.4" type="github">
   <diagram name="Page-1" id="tYTx1xWJ3GN5UAdBM3DD">
     <mxGraphModel dx="996" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -89,6 +89,9 @@
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdZPpGZ8JEdqdKie-wyI-40" target="cdZPpGZ8JEdqdKie-wyI-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cdZPpGZ8JEdqdKie-wyI-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdZPpGZ8JEdqdKie-wyI-40" target="cdZPpGZ8JEdqdKie-wyI-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-40" value="Get datat from&lt;div&gt;content control&lt;/div&gt;&lt;div&gt;XMLMapping&lt;/div&gt;&lt;div&gt;CustomXMLNode&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=14;strokeWidth=2;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="403.5" y="495" width="129" height="86" as="geometry" />
         </mxCell>
@@ -106,6 +109,9 @@
         </mxCell>
         <mxCell id="cdZPpGZ8JEdqdKie-wyI-55" value="Was&lt;div&gt;doc already&lt;/div&gt;&lt;div&gt;open?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="747" y="514" width="96" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="cdZPpGZ8JEdqdKie-wyI-59" value="Determine&lt;div&gt;if node has&lt;/div&gt;&lt;div&gt;RichText&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="213" y="503" width="93" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
