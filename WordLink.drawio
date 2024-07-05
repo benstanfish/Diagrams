@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T02:36:15.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="LIMLa54LYG0KSdp_U-mg" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-05T02:41:17.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="c1GUeMIVWqgkqZINM31A" version="24.6.4" type="github" pages="3">
   <diagram name="Main" id="tYTx1xWJ3GN5UAdBM3DD">
     <mxGraphModel dx="996" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -117,36 +117,35 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_swiHdwYZ9idD3fGmN9x" name="AddRow">
-    <mxGraphModel dx="1396" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R2HHdQj1saVfwWPCZea4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="udf6NLglyZjerrkpuGaO-8" target="R2HHdQj1saVfwWPCZea4-2">
+        <mxCell id="FmIAoP48yNZrz5b1DYPa-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="FmIAoP48yNZrz5b1DYPa-8" target="FmIAoP48yNZrz5b1DYPa-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="udf6NLglyZjerrkpuGaO-8" value="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;strokeColor=default;strokeWidth=2;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;labelPosition=center;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="180" y="180" width="41" height="42" as="geometry" />
+        <mxCell id="FmIAoP48yNZrz5b1DYPa-8" value="Main" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;strokeColor=default;strokeWidth=2;align=center;spacing=10;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="345" y="303" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bii5eKRBpu5unn8WeBp9-4" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="R2HHdQj1saVfwWPCZea4-2" target="bii5eKRBpu5unn8WeBp9-3">
+        <mxCell id="FmIAoP48yNZrz5b1DYPa-12" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="FmIAoP48yNZrz5b1DYPa-9" target="FmIAoP48yNZrz5b1DYPa-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bii5eKRBpu5unn8WeBp9-6" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="R2HHdQj1saVfwWPCZea4-2" target="bii5eKRBpu5unn8WeBp9-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FmIAoP48yNZrz5b1DYPa-14" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="FmIAoP48yNZrz5b1DYPa-9" target="FmIAoP48yNZrz5b1DYPa-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="454" y="436" />
+              <mxPoint x="454" y="436" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="R2HHdQj1saVfwWPCZea4-2" value="Table&lt;div&gt;has&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;data?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;spacing=20;" vertex="1" parent="1">
-          <mxGeometry x="147" y="281.5" width="107" height="77" as="geometry" />
+        <mxCell id="FmIAoP48yNZrz5b1DYPa-9" value="Does&lt;div&gt;Table have&lt;/div&gt;&lt;div&gt;data?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="329" y="400.5" width="92" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="bii5eKRBpu5unn8WeBp9-3" value="Add new row" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="-31" y="299" width="103" height="42" as="geometry" />
+        <mxCell id="FmIAoP48yNZrz5b1DYPa-11" value="Add data&lt;div&gt;to new row&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="175" y="407.5" width="92" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="bii5eKRBpu5unn8WeBp9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bii5eKRBpu5unn8WeBp9-5" target="bii5eKRBpu5unn8WeBp9-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bii5eKRBpu5unn8WeBp9-5" value="Determine&lt;div&gt;if RFI &amp;amp; Rev&lt;/div&gt;&lt;div&gt;were previously&lt;/div&gt;&lt;div&gt;added to table&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="332" y="277.5" width="117" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="bii5eKRBpu5unn8WeBp9-8" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="350.5" y="446.5" width="80" height="80" as="geometry" />
+        <mxCell id="FmIAoP48yNZrz5b1DYPa-13" value="Loop through&lt;div&gt;table to find&lt;/div&gt;&lt;div&gt;if RFI exists&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="486" y="400.5" width="105" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
