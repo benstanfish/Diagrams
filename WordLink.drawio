@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T04:26:17.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="SCv4i42AcvhyE9K7pO9l" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-10T04:29:05.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="7nVVlc-r4r_7p3Eo3emR" version="24.6.4" type="github" pages="4">
   <diagram name="Main" id="tYTx1xWJ3GN5UAdBM3DD">
     <mxGraphModel dx="996" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -294,7 +294,10 @@
         <mxCell id="S3maO2o3IME8GVB5y4Oy-18" value="Is DRFI&lt;div&gt;already&lt;/div&gt;&lt;div&gt;open?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;spacing=15;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="236.5" y="429" width="85" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="S3maO2o3IME8GVB5y4Oy-21" value="Create dictionary&lt;div&gt;for loading file&lt;/div&gt;&lt;div&gt;contents&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;spacing=15;" vertex="1" parent="1">
+        <mxCell id="S3maO2o3IME8GVB5y4Oy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S3maO2o3IME8GVB5y4Oy-21" target="S3maO2o3IME8GVB5y4Oy-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S3maO2o3IME8GVB5y4Oy-21" value="Create dictionary&lt;div&gt;or loading file content&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;spacing=15;" vertex="1" parent="1">
           <mxGeometry x="211.5" y="564" width="135" height="81" as="geometry" />
         </mxCell>
         <mxCell id="S3maO2o3IME8GVB5y4Oy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S3maO2o3IME8GVB5y4Oy-23" target="S3maO2o3IME8GVB5y4Oy-21">
@@ -312,6 +315,9 @@
         </mxCell>
         <mxCell id="S3maO2o3IME8GVB5y4Oy-27" value="Dim isWdOpen&amp;nbsp;&lt;div&gt;and isFileOpen&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(defaults to False)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;spacing=15;" vertex="1" parent="1">
           <mxGeometry x="209" y="77" width="140" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="S3maO2o3IME8GVB5y4Oy-36" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=2;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="96" y="574.5" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
