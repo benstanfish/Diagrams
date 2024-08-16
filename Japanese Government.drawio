@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="ページ1" id="zQ0u3U_UyeibHjYsIe1Y">
+    <mxGraphModel dx="1050" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wx5jg7viQjPzECAB1LZn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wx5jg7viQjPzECAB1LZn-2" target="wx5jg7viQjPzECAB1LZn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-2" value="Constitution&lt;div&gt;of Japan&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="101" width="81" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wx5jg7viQjPzECAB1LZn-3" target="wx5jg7viQjPzECAB1LZn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-3" value="The Diet" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="379" y="172" width="63" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wx5jg7viQjPzECAB1LZn-5" target="wx5jg7viQjPzECAB1LZn-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="411" y="292" />
+              <mxPoint x="299" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wx5jg7viQjPzECAB1LZn-5" target="wx5jg7viQjPzECAB1LZn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wx5jg7viQjPzECAB1LZn-5" target="wx5jg7viQjPzECAB1LZn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wx5jg7viQjPzECAB1LZn-5" target="wx5jg7viQjPzECAB1LZn-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="411" y="292" />
+              <mxPoint x="523" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-5" value="Prime Minister" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="363" y="232" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-9" value="Minister" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="268.5" y="326" width="60" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-11" value="Minister" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="343.5" y="326" width="60" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-12" value="Minister" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="326" width="60" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wx5jg7viQjPzECAB1LZn-13" value="Minister" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="326" width="60" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
