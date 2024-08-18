@@ -101,8 +101,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PeB0Xf8FCpoRSS4p1Vzv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PeB0Xf8FCpoRSS4p1Vzv-1" target="PeB0Xf8FCpoRSS4p1Vzv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PeB0Xf8FCpoRSS4p1Vzv-1" value="Diet" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="393" y="367" width="39" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PeB0Xf8FCpoRSS4p1Vzv-2" value="Cabinet" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="383" y="443" width="59" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
