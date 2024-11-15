@@ -479,12 +479,15 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="L6MVw38xho9tdbbQYO-j" name="Page-5">
+  <diagram id="L6MVw38xho9tdbbQYO-j" name="Tagging Overview">
     <mxGraphModel dx="1050" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LEEbFg-Dal_A_EcNtRF9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LEEbFg-Dal_A_EcNtRF9-1" target="LEEbFg-Dal_A_EcNtRF9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LEEbFg-Dal_A_EcNtRF9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LEEbFg-Dal_A_EcNtRF9-1" target="LEEbFg-Dal_A_EcNtRF9-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LEEbFg-Dal_A_EcNtRF9-1" value="Tags" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -499,11 +502,20 @@
         <mxCell id="LEEbFg-Dal_A_EcNtRF9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LEEbFg-Dal_A_EcNtRF9-3" target="LEEbFg-Dal_A_EcNtRF9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LEEbFg-Dal_A_EcNtRF9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LEEbFg-Dal_A_EcNtRF9-3" target="LEEbFg-Dal_A_EcNtRF9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LEEbFg-Dal_A_EcNtRF9-3" value="Disciplines" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="291" y="187" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LEEbFg-Dal_A_EcNtRF9-8" value="Subtags" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380.5" y="349" width="62" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LEEbFg-Dal_A_EcNtRF9-12" value="Associations&lt;div&gt;Societies&lt;/div&gt;&lt;div&gt;Agencies&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142" y="172.5" width="85" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LEEbFg-Dal_A_EcNtRF9-14" value="Companies&lt;div&gt;Brands&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="259.5" width="79" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
