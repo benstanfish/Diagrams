@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.6">
   <diagram name="Page-1" id="sbYlJnGa-hGl2bBSgeTk">
-    <mxGraphModel dx="786" dy="525" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1139" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,8 +52,8 @@
         <mxCell id="h9jhyhzseqTJbp-0_4a6-24" value="Parse&lt;div&gt;to&lt;/div&gt;&lt;div&gt;Soup&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="517" y="359" width="49" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="RfHgC-5NLAyc93PA8vrL-3" value="Load section meta to&lt;div&gt;dictionary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="360.5" y="464" width="129" height="41" as="geometry" />
+        <mxCell id="RfHgC-5NLAyc93PA8vrL-3" value="Load section meta to&lt;div&gt;dictionary&lt;/div&gt;&lt;div&gt;(SCN, STL, DTE)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="360.5" y="444" width="129" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
