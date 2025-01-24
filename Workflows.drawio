@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tRaalFtPgh5SGt39OWhi-2" value="Fee&lt;div&gt;Quote&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="156" width="62" height="41" as="geometry" />
+          <mxGeometry x="383.5" y="156" width="62" height="41" as="geometry" />
         </mxCell>
         <mxCell id="tRaalFtPgh5SGt39OWhi-4" value="Create PDT&lt;div&gt;Email-list&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="492" y="156" width="81" height="41" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tRaalFtPgh5SGt39OWhi-9" value="Is DBB" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="386" y="253" width="55" height="43" as="geometry" />
+          <mxGeometry x="387" y="236" width="55" height="43" as="geometry" />
         </mxCell>
         <mxCell id="tRaalFtPgh5SGt39OWhi-11" value="Comment&lt;div&gt;on SSOW&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="378" y="351" width="71" height="41" as="geometry" />
+          <mxGeometry x="379" y="317" width="71" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
