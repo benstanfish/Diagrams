@@ -10,17 +10,14 @@
         <mxCell id="tRaalFtPgh5SGt39OWhi-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="393" y="103" width="43" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="tRaalFtPgh5SGt39OWhi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tRaalFtPgh5SGt39OWhi-2" target="tRaalFtPgh5SGt39OWhi-4">
+        <mxCell id="tRaalFtPgh5SGt39OWhi-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tRaalFtPgh5SGt39OWhi-2" target="tRaalFtPgh5SGt39OWhi-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tRaalFtPgh5SGt39OWhi-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tRaalFtPgh5SGt39OWhi-2" target="tRaalFtPgh5SGt39OWhi-9">
+        <mxCell id="tRaalFtPgh5SGt39OWhi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tRaalFtPgh5SGt39OWhi-2" target="tRaalFtPgh5SGt39OWhi-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tRaalFtPgh5SGt39OWhi-2" value="Fee&lt;div&gt;Quote&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="383.5" y="156" width="62" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="tRaalFtPgh5SGt39OWhi-4" value="Create PDT&lt;div&gt;Email-list&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="492" y="156" width="81" height="41" as="geometry" />
         </mxCell>
         <mxCell id="tRaalFtPgh5SGt39OWhi-12" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tRaalFtPgh5SGt39OWhi-9" target="tRaalFtPgh5SGt39OWhi-11">
           <mxGeometry relative="1" as="geometry" />
@@ -30,6 +27,9 @@
         </mxCell>
         <mxCell id="tRaalFtPgh5SGt39OWhi-11" value="Comment&lt;div&gt;on SSOW&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="379" y="317" width="71" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="tRaalFtPgh5SGt39OWhi-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;PDT&lt;div&gt;Email-list&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="146.5" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
