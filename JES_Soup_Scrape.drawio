@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="e87xpupxFtMRoBVFFhFS" name="JES Resource Locator">
-    <mxGraphModel dx="1139" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -703,6 +703,9 @@
             <mxPoint x="332" y="735" as="sourcePoint" />
             <mxPoint x="432" y="635" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jvBMYeFwWOOY1uyAXu-C-225" value="JES Resource Locator" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=36;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="69" width="378" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
