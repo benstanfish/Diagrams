@@ -10,32 +10,50 @@
         <mxCell id="n_A1vjY1Jn5EMKk_JTxg-2" value="Constitution&lt;div&gt;憲法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="213" y="283" width="81" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="n_A1vjY1Jn5EMKk_JTxg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n_A1vjY1Jn5EMKk_JTxg-3" target="n_A1vjY1Jn5EMKk_JTxg-9">
+        <mxCell id="n_A1vjY1Jn5EMKk_JTxg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n_A1vjY1Jn5EMKk_JTxg-3" target="n_A1vjY1Jn5EMKk_JTxg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n_A1vjY1Jn5EMKk_JTxg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n_A1vjY1Jn5EMKk_JTxg-3" target="n_A1vjY1Jn5EMKk_JTxg-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n_A1vjY1Jn5EMKk_JTxg-3" value="National Diet&lt;div&gt;国儀&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="369" width="87" height="41" as="geometry" />
+          <mxGeometry x="210" y="362" width="87" height="41" as="geometry" />
         </mxCell>
         <mxCell id="n_A1vjY1Jn5EMKk_JTxg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n_A1vjY1Jn5EMKk_JTxg-5" target="n_A1vjY1Jn5EMKk_JTxg-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n_A1vjY1Jn5EMKk_JTxg-5" value="Cabinet&lt;div&gt;内閣&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="224" y="441" width="59" height="41" as="geometry" />
+          <mxGeometry x="224" y="425" width="59" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="n_A1vjY1Jn5EMKk_JTxg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n_A1vjY1Jn5EMKk_JTxg-9" target="n_A1vjY1Jn5EMKk_JTxg-5">
+        <mxCell id="n_A1vjY1Jn5EMKk_JTxg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n_A1vjY1Jn5EMKk_JTxg-9" target="n_A1vjY1Jn5EMKk_JTxg-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n_A1vjY1Jn5EMKk_JTxg-9" value="Prime Minister&lt;div&gt;総理大臣&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="441" width="95" height="41" as="geometry" />
+          <mxGeometry x="96" y="425" width="95" height="41" as="geometry" />
         </mxCell>
         <mxCell id="n_A1vjY1Jn5EMKk_JTxg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n_A1vjY1Jn5EMKk_JTxg-17" target="n_A1vjY1Jn5EMKk_JTxg-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n_A1vjY1Jn5EMKk_JTxg-17" value="&lt;div&gt;Ministries&lt;/div&gt;&lt;div&gt;省庁&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="219" y="518" width="69" height="41" as="geometry" />
+          <mxGeometry x="219" y="492" width="69" height="41" as="geometry" />
         </mxCell>
         <mxCell id="n_A1vjY1Jn5EMKk_JTxg-19" value="Administrative Agencies&lt;div&gt;行政機関&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193.5" y="592" width="120" height="60" as="geometry" />
+          <mxGeometry x="181" y="557" width="145" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="n_A1vjY1Jn5EMKk_JTxg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n_A1vjY1Jn5EMKk_JTxg-21" target="n_A1vjY1Jn5EMKk_JTxg-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n_A1vjY1Jn5EMKk_JTxg-21" value="Local Legislative&amp;nbsp;&lt;div&gt;Assemblies&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="396" y="459" width="110" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="n_A1vjY1Jn5EMKk_JTxg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n_A1vjY1Jn5EMKk_JTxg-23" target="n_A1vjY1Jn5EMKk_JTxg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n_A1vjY1Jn5EMKk_JTxg-23" value="Local&amp;nbsp;&lt;div&gt;Executive&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="533" width="70" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="n_A1vjY1Jn5EMKk_JTxg-25" value="Local&amp;nbsp;&lt;div&gt;Administrative&amp;nbsp;&lt;div&gt;Agencies&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="526" width="97" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
